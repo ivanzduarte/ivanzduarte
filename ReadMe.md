@@ -19,8 +19,8 @@
  </div>
 
  <div align="center"> 
-  <a href="mailto:ivanzduartezz@gmail.com">
-    <img src="https://img.shields.io/badge/icloud-333333?style=for-the-badge&logo=icloud&logoColor=red" />
+  <a href="mailto:ivanzduarte@icloud.com">
+    <img src="https://img.shields.io/badge/icloud-333333?style=for-the-badge&logo=icloud&logoColor=blue" />
   </a>
   <a href="https://linkedin.com/in/naviduarte" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
