@@ -8,11 +8,13 @@
 
 <div align="center">
  
- 🔭 Atualmente estou estagiando na **MHARK**
+ 📚 Atualmente Graduando em **Análise E Desenvolvimento De Sistemas.**
+ 
+ 📌 Aqui você encontrará projetos que estou **desenvolvendo e trabalhando** durante meus estudos.
  
  🌱 Atualmente estou aprendendo **Linguagens de Programação e Programação Orientada a Objetos**
 
-⚡ Curiosidade: **Gosto muito de Design Gráfico e Edição de vídeos**
+⚡ Curiosidade: Gosto muito de **Design Gráfico e Edição de vídeos**
 
  </div>
 
